@@ -1,0 +1,3 @@
+include 'test_serialport'
+include ':serialport'
+rootProject.name = '串口调试工具'
